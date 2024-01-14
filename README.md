@@ -3,7 +3,7 @@
 <p align="center">Projeto desenvolvido seguindo o design do Front-end Mentor</p>
 
 <h2>🌟 Projeto</h2>
-"Search Country é uma aplicação web que ajuda o usuário a encontrar informações sobre seu país, como população, língua ou a moeda corrente.
+Search Country é uma aplicação web que ajuda o usuário a encontrar informações sobre seu país, como população, língua ou a moeda corrente.
 
 <h2>👾 Tecnologias</h2>
 - Next.js
